@@ -5,5 +5,5 @@ To run:
  - Run `stack build` (this should pull in the dependencies and then build the source code)
  - Run either of the executables produced in the directory: `.stack-work/install/*/*/*/bin/`
  - I was running
- -- `stack build && .stack-work/install/*/*/*/bin/worker-example`
- -- `stack build && .stack-work/install/*/*/*/bin/landl-example`
+  - `stack build && .stack-work/install/*/*/*/bin/worker-example`
+  - `stack build && .stack-work/install/*/*/*/bin/landl-example`
